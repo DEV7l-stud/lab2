@@ -1,0 +1,8 @@
+VAR CONSTANT
+	State_Ready : USINT := 33;
+	State_Disabled : USINT := 64;
+	CMD_Shutdown : USINT := 6;
+	CMD_Switch_ON : USINT := 7;
+	CMD_Enable : USINT := 15;
+	State_Switched_ON : USINT := 35;
+END_VAR
